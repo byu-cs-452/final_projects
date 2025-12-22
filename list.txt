@@ -1,2 +1,13 @@
-https://github.com/myl15/collaborative-transformer-zoo/tree/main, https://github.com/myl15/collaborative-transformer-zoo/raw/main/assets/demo.gif
+https://github.com/myl15/collaborative-transformer-zoo/tree/main
 https://github.com/abbie-barton/cs452-final-project/blob/main/final-report.md
+https://github.com/CompliRent/bet-buddies/blob/main/FINAL_REPORT.md
+https://github.com/kennionblack/prompt-engineering/blob/main/skynet/final_report.md
+https://github.com/markbrede/vehicle-intelligence-platform/blob/main/docs/final_report.md
+https://github.com/N3ptune/MathTutor
+https://github.com/duhby/file-goblin/blob/master/report.md
+https://github.com/StevenChengCCC/Social-Media-Academy/blob/main/report.md
+https://github.com/Wyomike/TopicBuzz/tree/main
+https://github.com/jcdahlke/Homeschool-Lesson-Hub/blob/main/docs/submissions/Final_Report.md
+https://github.com/andrewjdarley/professor-map/blob/main/README.md
+https://github.com/frenchhornbro/SceneWriter
+https://github.com/ammonelzinga/taxtrail/blob/main/ShowcasePleaseReadThis/ReadThisFIRST.md
