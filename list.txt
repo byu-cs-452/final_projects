@@ -1,3 +1,4 @@
+https://github.com/ethanwait25/echo/blob/main/.docs/report.md
 https://github.com/Yoondoyoung/CS452-Final-Project
 https://github.com/deeruns/AlphaPeakClass/blob/main/FinalProjectReport.md
 https://github.com/Wyomike/TopicBuzz/tree/main
