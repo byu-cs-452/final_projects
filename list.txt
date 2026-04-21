@@ -1,3 +1,26 @@
+2026 Winter
+https://github.com/der-leek/lds-search
+https://github.com/rileyballard6/cs452-project/tree/main
+https://github.com/jhwlds/2026-project
+https://gist.github.com/4anklee/1e622ccaed5bf0d786748f9288153f99
+https://github.com/jhchan99/signatur
+https://github.com/ecdye/speeches_search/blob/main/README.md
+https://github.com/huntermgonzales1/FoodScienceExamAI/blob/main/Project_report.md
+https://github.com/DatumWeb/DataMan/blob/main/project-markdown/PROJECT_REPORT.md
+https://github.com/JoshuaNiel/Nudge/blob/main/docs/Report.md
+https://github.com/peartsj/ServerBookshelf/blob/main/docs/final-report.md
+https://github.com/Merica-Rowley/spark
+https://github.com/ianjrobertson/cs-452-final-project
+https://github.com/mailiap/CS-452-Final-Project/blob/main/FINAL-REPORT.md
+https://github.com/peartsj/ServerBookshelf/blob/main/docs/final-report.md
+https://github.com/musevi/tanjent
+https://github.com/Maillman/GDDL-Demon-Recommender/blob/main/docs/FINALREPORT.md
+https://github.com/kobeynw/curious-toddlers/blob/main/project-report.md
+
+
+----
+
+
 https://github.com/ethanwait25/echo/blob/main/.docs/report.md
 https://github.com/Yoondoyoung/CS452-Final-Project
 https://github.com/deeruns/AlphaPeakClass/blob/main/FinalProjectReport.md
